@@ -28,3 +28,17 @@ section{
     background-color: rgba(0, 0, 0, 0.7);
 
 }
+
+.gastronomia{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
+.reservas{
+    padding: 100px 200px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+
+}
